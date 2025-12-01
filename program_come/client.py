@@ -4,7 +4,7 @@ def aiProcess(command):
     # Configure the API key
     # Get your key from: https://aistudio.google.com/app/apikey
     # Replace the string below with your actual API key
-    genai.configure(api_key="AIzaSyC8WZFunXyP3hDlaA32AbWO9TFgBXf0Wek")
+    genai.configure(api_key="your api key")
 
     # Create the model
     model = genai.GenerativeModel("gemini-flash-latest")
