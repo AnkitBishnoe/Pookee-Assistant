@@ -1,6 +1,6 @@
 # How Pookee Works
 
-Welcome! This document explains how your voice assistant, **Pookee**, works.
+Welcome This document explains how your voice assistant, **Pookee**, works.
 
 ## Overview
 Pookee is a voice-controlled assistant that follows a simple loop:
@@ -40,3 +40,4 @@ Pookee is a voice-controlled assistant that follows a simple loop:
     python main.py
     ```
 4.  Say **"Hello"** or **"Pookee"** to start.
+
