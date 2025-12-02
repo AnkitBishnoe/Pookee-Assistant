@@ -110,4 +110,5 @@ if __name__ == "__main__":
             command = listen(timeout=7, limit=7)
 
             if command != "":
+
                 processcommand(command)
